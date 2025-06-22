@@ -193,7 +193,7 @@ Remember: microgreen growing is forgiving. Even experienced growers occasionally
             
             <div className="relative">
               <img
-                src="public/assets/m1.jpeg"
+                src="assets/m1.jpeg"
                 alt="Fresh microgreens with morning dew"
                 className="rounded-2xl shadow-2xl hover-lift"
               />
