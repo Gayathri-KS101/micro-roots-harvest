@@ -30,7 +30,7 @@ What makes microgreens special is their incredible nutrient density. Studies sho
 Growing them is surprisingly simple - you need just seeds, a growing medium, water, and light. No soil required! This makes them perfect for urban gardeners, apartment dwellers, and anyone wanting fresh, nutritious greens year-round.`,
       author: 'Dr. Sarah Green',
       readTime: '5 min read',
-      image: 'public/assets/m1.jpeg'
+      image: 'assets/m1.jpeg'
     },
     {
       id: '2',
