@@ -62,7 +62,7 @@ Growing tips:
 Start with 2-3 varieties to avoid overwhelm, then expand your garden as you gain confidence!`,
       author: 'Growing Guru',
       readTime: '4 min read',
-      image: 'assets/m2.jpeg'
+      image: '/assets/m2.jpeg'
     },
     {
       id: '3',
