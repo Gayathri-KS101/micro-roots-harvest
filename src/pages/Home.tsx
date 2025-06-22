@@ -100,7 +100,7 @@ During the microgreen stage, plants are using all their stored energy to grow ra
 The combination of convenience, nutrition, and flavor makes microgreens a professional's secret weapon for both health and culinary excellence.`,
       author: 'Chef Maria Santos',
       readTime: '6 min read',
-      image: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=800&h=400&fit=crop'
+      image: '/assets/m3.jpeg'
     },
     {
       id: '4',
@@ -149,7 +149,7 @@ Some seeds benefit from pre-soaking for better germination.
 Remember: microgreen growing is forgiving. Even experienced growers occasionally face challenges. The key is learning from each batch and continuously improving your technique.`,
       author: 'Mike Thompson',
       readTime: '5 min read',
-      image: 'https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&h=400&fit=crop'
+      image: '/assets/m4.jpeg'
     }
   ];
 
