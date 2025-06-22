@@ -247,7 +247,7 @@ const Nutrition = () => {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=500&h=600&fit=crop"
+                src="public/assets/nm1.jpeg"
                 alt="Fresh microgreens nutrition"
                 className="rounded-2xl shadow-xl"
               />
